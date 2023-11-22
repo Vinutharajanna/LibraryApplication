@@ -1,0 +1,10 @@
+librarymanagement\controller\AuthorController.class
+librarymanagement\entity\Book.class
+librarymanagement\controller\BookController.class
+librarymanagement\entity\Author.class
+librarymanagement\entity\Librarian.class
+librarymanagement\controller\LibrarianController.class
+librarymanagement\LibraryManagementApplication.class
+librarymanagement\repo\LibrarianRepo.class
+librarymanagement\repo\AuthorRepo.class
+librarymanagement\repo\BookRepo.class
